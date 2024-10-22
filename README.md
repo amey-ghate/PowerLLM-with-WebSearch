@@ -38,14 +38,12 @@ pip install requests beautifulsoup4 langchain_community langchain_core ollama
 
 Given the sample web search, **Llama 3.1** will produce a summary that captures the central theme of the documents.
 
----
 
 ## Usage Notes
 
 - Customize the web search query by changing the JSON result in the notebook or making live API calls.
 - Adapt the model by adjusting the prompt or switching to different versions of the **Llama** model based on your needs.
 
----
 
 ## Future Enhancements
 
